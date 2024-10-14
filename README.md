@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a seasoned Systems Administrator with extensive experience in the retail industry, specializing in the design and management of scalable, high-performance web application environments. Currently, I am leveraging my expertise within the aerospace sector. I have a strong background in system integrations across both Linux and Windows platforms, with hands-on experience in cloud technologies such as AWS and Azure. Additionally, I hold a Bachelor of Business Administration (BBA) in Business Information Systems from Mississippi State University.
+
 <!--
 **cardiganboi/cardiganboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
